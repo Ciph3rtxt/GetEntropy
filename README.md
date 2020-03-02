@@ -1,2 +1,2 @@
 # GetEntropy
-```GetEntropy.py <file or directory>```
+GetEntropy.py &gt;file or directory&lt;
